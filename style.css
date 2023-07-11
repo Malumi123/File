@@ -1,0 +1,61 @@
+.nav-wrapper{
+    display: flex;
+}
+
+.main{
+    background-color: black;
+    color: white;
+    
+}
+.logo{
+    border-radius: 10px;
+    color: black;
+}
+.title{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+#verticle-line1{
+    width: 1px;
+    height: 1000px;
+    background-color: silver;
+    margin-left: 850px;
+
+}
+#verticle-line{
+    width: 0px;
+    height: 1000px;
+    background-color: silver;
+    
+}
+.end-btn{
+    border: none;
+  background-color: lightblue;
+  padding: 12px 48px 12px 24px;
+  border-radius: 4px;
+  color: #fff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7.41' height='12' viewBox='0 0 7.41 12'%3E%3Cpath d='M10,6,8.59,7.41,13.17,12,8.59,16.59,10,18l6-6Z' transform='translate(-8.59 -6)' fill='%23fff'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 24px center;
+
+}
+.ttt{
+    margin-left: 70px;
+}
+.pix{
+    border-radius: 100px;
+}
+#leg{
+    border-left: 1px silver solid;
+    border-right: 1px silver solid;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+.grass{
+    margin-right: 500px;
+    margin-left: 20px;
+}
+.row stats left{
+    display: flex;
+}
